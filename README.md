@@ -84,11 +84,3 @@ Questions' file example:
 
 -   dhubleur
 -   shocquen
-
-### Questions
-
--   dhubleur
--   atheveni
--   itripoli
--   jboisne
--   ngiroux
