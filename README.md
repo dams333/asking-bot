@@ -78,6 +78,11 @@ Questions' file example:
 ]
 ```
 
+## License
+
+The project is under the MIT License.
+Do what you want with the code (but don't forget to credit us !)
+
 ## Contributors
 
 ### Developers
